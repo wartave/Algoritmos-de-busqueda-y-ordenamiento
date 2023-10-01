@@ -66,7 +66,7 @@ namespace Algoritmos_de_busqueda
                 FillColor = OxyPlot.OxyColors.Green
             };
 
-            
+
             var categoryAxis = new LinearAxis
             {
                 Position = AxisPosition.Left,
@@ -77,8 +77,8 @@ namespace Algoritmos_de_busqueda
                 AxisTickToLabelDistance = 0,
                 MinimumPadding = 0.1,
                 MaximumPadding = 0.1,
-                Minimum = 0, 
-                Maximum = 10000 * 1.1, 
+                Minimum = 0,
+                Maximum = 10000 * 1.1,
 
             };
 
@@ -96,7 +96,7 @@ namespace Algoritmos_de_busqueda
             plotModel.Series.Add(QuickSortGraph);
             plotModel.Series.Add(InsertionSortGraph);
 
-           
+
             plotView1.Model = plotModel;
         }
         private int[] GenerateLargeArray(int size)
@@ -163,6 +163,10 @@ namespace Algoritmos_de_busqueda
                 {
                     bar.Items.Clear();
                     bar.Items.Add(new OxyPlot.Series.BarItem(elapsedMilliseconds, 0));
+                    labeltxt.BeginInvoke((MethodInvoker)delegate
+                    {
+                        labeltxt.Text = $"Tiempo ({algorithmName}): {stopwatch.Elapsed.TotalMilliseconds:0.00} ms";
+                    });
                     plotView1.InvalidatePlot(true);
                 });
 

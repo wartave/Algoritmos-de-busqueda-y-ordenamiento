@@ -167,6 +167,10 @@ namespace Algoritmos_de_busqueda
                     // Agrega los valores de las barras
                     bar.Items.Add(new OxyPlot.Series.BarItem(elapsedMilliseconds, 0));
                     // Refresca el gráfico
+                    labeltxt.BeginInvoke((MethodInvoker)delegate
+                    {
+                        labeltxt.Text = $"Tiempo ({algorithmName}): {stopwatch.Elapsed.TotalMilliseconds:0.00} ms";
+                    });
                     plotView1.InvalidatePlot(true);
                 });
 

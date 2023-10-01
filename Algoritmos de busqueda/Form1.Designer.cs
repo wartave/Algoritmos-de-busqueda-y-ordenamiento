@@ -37,7 +37,7 @@
             // 
             // startBtn
             // 
-            startBtn.Location = new Point(12, 569);
+            startBtn.Location = new Point(12, 573);
             startBtn.Name = "startBtn";
             startBtn.Size = new Size(835, 23);
             startBtn.TabIndex = 0;
@@ -48,7 +48,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(276, 540);
+            label2.Location = new Point(12, 525);
             label2.Name = "label2";
             label2.Size = new Size(50, 15);
             label2.TabIndex = 2;
@@ -59,7 +59,7 @@
             plotView1.Location = new Point(12, 5);
             plotView1.Name = "plotView1";
             plotView1.PanCursor = Cursors.Hand;
-            plotView1.Size = new Size(835, 484);
+            plotView1.Size = new Size(835, 472);
             plotView1.TabIndex = 11;
             plotView1.Text = "plotView1";
             plotView1.ZoomHorizontalCursor = Cursors.SizeWE;
@@ -69,7 +69,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(24, 540);
+            label1.Location = new Point(12, 500);
             label1.Name = "label1";
             label1.Size = new Size(50, 15);
             label1.TabIndex = 12;
@@ -78,7 +78,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(525, 540);
+            label3.Location = new Point(12, 555);
             label3.Name = "label3";
             label3.Size = new Size(50, 15);
             label3.TabIndex = 13;

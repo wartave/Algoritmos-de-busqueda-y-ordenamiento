@@ -1,0 +1,7 @@
+C:\Users\vjt25\Desktop\universidad\Algoritmos de busqueda.exe
+C:\Users\vjt25\Desktop\universidad\Algoritmos de busqueda.dll
+C:\Users\vjt25\Desktop\universidad\Algoritmos de busqueda.deps.json
+C:\Users\vjt25\Desktop\universidad\Algoritmos de busqueda.runtimeconfig.json
+C:\Users\vjt25\Desktop\universidad\Algoritmos de busqueda.pdb
+C:\Users\vjt25\Desktop\universidad\OxyPlot.dll
+C:\Users\vjt25\Desktop\universidad\OxyPlot.WindowsForms.dll
