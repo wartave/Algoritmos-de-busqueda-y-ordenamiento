@@ -1,0 +1,22 @@
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\Algoritmos de busqueda.exe
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\Algoritmos de busqueda.deps.json
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\Algoritmos de busqueda.runtimeconfig.json
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\Algoritmos de busqueda.dll
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\Algoritmos de busqueda.pdb
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.csproj.AssemblyReference.cache
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos_de_busqueda.Form1.resources
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos_de_busqueda.Form2.resources
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos_de_busqueda.Menu.resources
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.csproj.GenerateResource.cache
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.AssemblyInfoInputs.cache
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.AssemblyInfo.cs
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.csproj.CoreCompileInputs.cache
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.csproj.CopyComplete
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.dll
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\refint\Algoritmos de busqueda.dll
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.pdb
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\Algoritmos de busqueda.genruntimeconfig.cache
+C:\Users\vjt25\Desktop\universidad\algoritmos\Algoritmos de busqueda\Algoritmos de busqueda\obj\Debug\net6.0-windows\ref\Algoritmos de busqueda.dll

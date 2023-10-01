@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJMCVca2bM/nRXCXo/gzY7bQgAt3Xy1/PkD1kn5huOfu0vYMHRMPzbb8iTKm6rU/OzvwA+uU3KepwhvPFs/bCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vjt25\\Desktop\\universidad\\algoritmos\\Algoritmos de busqueda\\Algoritmos de busqueda\\Algoritmos de busqueda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vjt25\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\vjt25\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
